@@ -8,7 +8,7 @@ const routes = [{
         component: Home,
         props: true,
         meta: {
-            title: 'REST API Countries App - Homepage'
+            title: 'Country'
         }
     },
     {
@@ -17,7 +17,7 @@ const routes = [{
         component: CountryDetail,
         props: true,
         meta: {
-            title: 'REST API Countries App'
+            title: 'Country Details'
         }
     },
 ]
